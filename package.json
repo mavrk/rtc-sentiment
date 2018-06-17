@@ -1,0 +1,22 @@
+{
+  "name": "rtc-sentiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+      "build": "next build",
+      "start": "NODE_ENV=production node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavrk/rtc-sentiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavrk/rtc-sentiment/issues"
+  },
+  "homepage": "https://github.com/mavrk/rtc-sentiment#readme"
+}
